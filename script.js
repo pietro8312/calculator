@@ -5,7 +5,7 @@ function operation(){
     
 }
 
-var output = document.querySelector('#text-area');
+var output = document.querySelector('#texto');
 
 var texto = '';
 
